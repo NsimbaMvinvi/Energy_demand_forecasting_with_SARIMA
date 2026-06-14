@@ -103,5 +103,3 @@ Accurate energy demand estimation is critical to operations. Improving forecast 
 - Evaluate alternative models (Prophet, XGBoost, LSTM)
 
 ---
-
-*This project is part of my data analytics portfolio, focused on applying **time series techniques to solve real business problems**.*
